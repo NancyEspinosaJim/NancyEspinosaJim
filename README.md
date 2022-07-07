@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Science, Data analytics and Development**
 
+- :cat: My personal GitHub [GitHub](https://github.com/NancyEspinosaj)
+
 - 👨‍💻 All of my projects are available at [https://nancyespinosaj.github.io/WebPortafolio2//](https://nancyespinosaj.github.io/WebPortafolio2/)
 
 - 💬 Ask me about **Python, HTML, CSS, Java and others**
